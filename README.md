@@ -30,9 +30,9 @@ Some technologies I enjoy working with include ReactJS, JavaScript, React.js - R
 ## Contact ![mouse-cursor---filled(40x40)@1x](https://user-images.githubusercontent.com/75697707/124082497-66915880-da12-11eb-926b-85fe39b14a4f.png)
 
 
-- ![mail---filled(48x48)@1x](https://user-images.githubusercontent.com/75697707/124083944-0ef3ec80-da14-11eb-8dce-65b1adbd4709.png)
+![mail---filled(48x48)@1x](https://user-images.githubusercontent.com/75697707/124083944-0ef3ec80-da14-11eb-8dce-65b1adbd4709.png)
 **[Email](mailto:vivi6410@gmail.com)**
-- ![linkedin(48x48)@1x](https://user-images.githubusercontent.com/75697707/124083976-1d420880-da14-11eb-80fb-d58fca6e6e18.png)
+![linkedin(48x48)@1x](https://user-images.githubusercontent.com/75697707/124083976-1d420880-da14-11eb-80fb-d58fca6e6e18.png)
  **[LinkedIn](www.linkedin.com/in/vivian-gutierrez-myc-dev)**
 
-:iphone: +57 313 247 4598
+![mobile---filled-(48x48)@1x](https://user-images.githubusercontent.com/75697707/124084274-6befa280-da14-11eb-9796-6877981df0aa.png) +57 313 247 4598
