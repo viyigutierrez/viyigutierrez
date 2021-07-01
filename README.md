@@ -3,6 +3,9 @@
 
 I´m an electronic engineer - fullstack developer. I love :heart: science and technology because through them I know how the world works and I can improve people's lives :family: through technology.
 
+I’m a developer who is mainly interested in web technologies, specially in **frontend development**.
+
+
 Some technologies I enjoy working with include ReactJS, JavaScript, React.js - Redux, PostgreSQL, Sequelize and Node.js.
 
 - Knowledge in:
@@ -24,10 +27,9 @@ Some technologies I enjoy working with include ReactJS, JavaScript, React.js - R
 
 
 
-- How to reach me:
+## Contact![mouse-cursor---filled(24x24)@1x](https://user-images.githubusercontent.com/75697707/124082193-06021b80-da12-11eb-8862-188d22a63bce.png)
 
-:email:joanzorovichg@gmail.com
+- 📩 **[Email](mailto:vivi6410@gmail.com)**
+- 🐦 **[LinkedIn](www.linkedin.com/in/vivian-gutierrez-myc-dev)**
 
-:ballot_box_with_check:https://www.linkedin.com/in/joan-catherine-zorovich
-
-:iphone: +57 302 277 83 77
+:iphone: +57 313 247 4598
