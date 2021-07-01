@@ -18,7 +18,7 @@ Some technologies I enjoy working with include ReactJS, JavaScript, React.js - R
 ![image](https://user-images.githubusercontent.com/75386133/118583062-07c19980-b75a-11eb-94e7-29972a814723.png)
 ![image](https://user-images.githubusercontent.com/75386133/118583077-0f813e00-b75a-11eb-829e-f890a7937198.png)
 
-- Languages:
+## Languages
 
 ![more-vertical-circle---filled(48x48)@1x](https://user-images.githubusercontent.com/75697707/124083867-fa175900-da13-11eb-86ff-1e92eb9f3b4d.png)  Spanish(Native)
 
