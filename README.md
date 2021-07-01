@@ -1,4 +1,4 @@
-![Code typing](https://user-images.githubusercontent.com/75697707/124080362-e833b700-da0f-11eb-8a5e-0fff26409d21.gif)
+![Code typing (1)](https://user-images.githubusercontent.com/75697707/124080604-2af58f00-da10-11eb-93fb-b7698d1d0329.gif)
 
 
 I´m an electronic engineer - fullstack developer. I love :heart: science and technology because through them I know how the world works and I can improve people's lives :family: through technology.
