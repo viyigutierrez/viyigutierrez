@@ -1,9 +1,9 @@
 ![Code typing (2)](https://user-images.githubusercontent.com/75697707/124080750-57111000-da10-11eb-8fe6-dd63956311cf.gif)
 
 
-I´m an electronic engineer - fullstack developer. I love :heart: science and technology because through them I know how the world works and I can improve people's lives :family: through technology.
-
 I’m a developer who is mainly interested in web technologies, specially in **frontend development**.
+
+I decided to get involved in the tech world because I realized that not being part of it is not an option. Moreover, not in a life where change is the only constant.
 
 
 Some technologies I enjoy working with include ReactJS, JavaScript, React.js - Redux, PostgreSQL, Sequelize and Node.js.
@@ -30,7 +30,8 @@ Some technologies I enjoy working with include ReactJS, JavaScript, React.js - R
 ## Contact ![mouse-cursor---filled(40x40)@1x](https://user-images.githubusercontent.com/75697707/124082497-66915880-da12-11eb-926b-85fe39b14a4f.png)
 
 
-- 📩 **[Email](mailto:vivi6410@gmail.com)**
+- ![mail---filled(56x56)@1x](https://user-images.githubusercontent.com/75697707/124083240-42824700-da13-11eb-93b6-6abea7c2c00b.png)
+**[Email](mailto:vivi6410@gmail.com)**
 - 🐦 **[LinkedIn](www.linkedin.com/in/vivian-gutierrez-myc-dev)**
 
 :iphone: +57 313 247 4598
