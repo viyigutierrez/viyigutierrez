@@ -20,7 +20,8 @@ Some technologies I enjoy working with include ReactJS, JavaScript, React.js - R
 
 - Languages:
 
-:small_orange_diamond:Spanish(Native)
+![more-vertical-circle(48x48)@1x](https://user-images.githubusercontent.com/75697707/124083731-d7854000-da13-11eb-81b5-c67a59dc717d.png)
+Spanish(Native)
 
 :small_orange_diamond:English(B2)
 
