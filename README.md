@@ -27,7 +27,8 @@ Some technologies I enjoy working with include ReactJS, JavaScript, React.js - R
 
 
 
-## Contact![mouse-cursor---filled(24x24)@1x](https://user-images.githubusercontent.com/75697707/124082193-06021b80-da12-11eb-8862-188d22a63bce.png)
+## Contact ![mouse-cursor---filled(40x40)@1x](https://user-images.githubusercontent.com/75697707/124082497-66915880-da12-11eb-926b-85fe39b14a4f.png)
+
 
 - 📩 **[Email](mailto:vivi6410@gmail.com)**
 - 🐦 **[LinkedIn](www.linkedin.com/in/vivian-gutierrez-myc-dev)**
